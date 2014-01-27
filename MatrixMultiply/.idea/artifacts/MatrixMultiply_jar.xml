@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MatrixMultiply:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MatrixMultiply_jar</output-path>
+    <root id="archive" name="MatrixMultiply.jar">
+      <element id="module-output" name="MatrixMultiply" />
+    </root>
+  </artifact>
+</component>
